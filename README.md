@@ -1,4 +1,4 @@
-# Predicción del Precio de Vehículos Usados
+# **Predicción del Precio de Vehículos Usados**
 
 Este proyecto implementa y compara múltiples modelos de regresión para predecir el precio de vehículos usados a partir de un conjunto de características como el tipo de vehículo, tipo de combustible, modelo, marca, kilometraje y antigüedad.
 
@@ -6,7 +6,7 @@ El objetivo principal es determinar qué algoritmo ofrece el mejor rendimiento e
 
 ---
 
-## Tecnologías y Librerías
+## **Tecnologías y Librerías**
 
 - Python 3.10+
 - Pandas, NumPy
@@ -20,7 +20,7 @@ El objetivo principal es determinar qué algoritmo ofrece el mejor rendimiento e
 
 ---
 
-## Modelos Evaluados
+## **Modelos Evaluados
 
 Se implementaron y compararon los siguientes modelos:
 
