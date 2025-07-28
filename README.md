@@ -41,7 +41,7 @@ La comparación se hizo en base a:
 
 
 Autor
-Gabriel G. M. (GGM)
+Gabriel García Montoya.
 Ingeniero electricista | Científico de Datos
 
 
