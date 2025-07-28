@@ -4,28 +4,6 @@ Este proyecto implementa y compara múltiples modelos de regresión para predeci
 
 El objetivo principal es determinar qué algoritmo ofrece el mejor rendimiento en términos de precisión (RMSE), tiempo de entrenamiento y tiempo de predicción.
 
-## Estructura del Proyecto
-
-├── data/
-│ ├── autos.csv # Dataset original
-│
-├── models/
-│ ├── LGBM_model_trained_car_price.joblib # Modelos guardados
-│ ├── train_time_LGBM.txt
-│ └── ... otros modelos
-│
-├── notebooks/
-│ ├── 01_EDA.ipynb # Análisis exploratorio
-│ ├── 02_Preprocesamiento.ipynb
-│ ├── 03_Modelos_Base.ipynb
-│ ├── 04_Hiperparametros.ipynb
-│ └── 05_Comparativa_Final.ipynb
-│
-├── requirements.txt
-├── README.md
-└── main.py (opcional)
-
-
 ---
 
 ## Tecnologías y Librerías
