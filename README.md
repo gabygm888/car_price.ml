@@ -40,8 +40,4 @@ La comparación se hizo en base a:
 ---
 
 
-Autor
-Gabriel García Montoya.
-Ingeniero electricista | Científico de Datos
-
 
