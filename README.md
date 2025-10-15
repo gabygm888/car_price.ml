@@ -20,7 +20,7 @@ El objetivo principal es determinar qué algoritmo ofrece el mejor rendimiento e
 
 ---
 
-## **Modelos Evaluados
+## **Modelos Evaluados**
 
 Se implementaron y compararon los siguientes modelos:
 
